@@ -1,3 +1,3 @@
 ## Rubén Rincón Blanco
 
-Welcome to my humble site. Extremely minimal lightweight and readable.
+Welcome to my humble site. Extremely minimal, lightweight and readable.
