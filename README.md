@@ -1,3 +1,3 @@
 ## Rubén Rincón Blanco
 
-There is nothing here
+Welcome to my humble site. Extremely minimal lightweight and readable.
